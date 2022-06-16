@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+To see live build = https://vue3-firebase-vite.netlify.app/
