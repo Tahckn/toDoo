@@ -1,6 +1,6 @@
 # toDoo
 
-
+It's a basic to do app with realtime firebase database.
 
 ## Recommended IDE Setup
 
